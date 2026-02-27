@@ -1,0 +1,7 @@
+payment-gateway/
+├── index.html            (Payment Gateway Page)
+├── otp.html              (OTP Verification Page)
+├── styles/
+│   └── main.css          (CSS for both pages)
+└── scripts/
+    └── main.js           (JavaScript for form handling and Telegram bot integration)

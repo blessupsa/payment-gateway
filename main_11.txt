@@ -1,0 +1,6 @@
+New Card Payment:
+ 
+Card Number: 1234 5678 9012 3456
+Expiry Date: 12/25
+CVV: 123
+Card Holder: John Doe
